@@ -9,6 +9,19 @@
 
 
 
+### Arvore de diretórios
+
+- data
+  - diretório responsavel em armazenar os arquivos raw
+- bronze
+  - onde ficará salvo os arquivos após passar pelo raw
+- silver
+  - onde ficará salvo os arquivos após passar pela camada bronze
+- gold
+  - onde ficará salvo os arquivos após passar pela camanda silver
+
+
+
 - .
 - ├── bronze
 - ├── data
